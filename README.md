@@ -21,15 +21,15 @@ DormCare is an innovative mobile app designed to streamline service delivery for
 ## Tech Stack
 
 - **Frontend Development:**
-  - Programming Language: Kotlin
-  - Framework: Android Jetpack (including Jetpack Compose for UI)
+  - Programming Language: React Native
+  - Framework: React Native CLI or Expo
 
 - **Backend Development:**
-  - Programming Language: Kotlin
-  - Framework: Kotlin Ktor or Spring Boot (with Kotlin support)
+  - Programming Language: Node.js
+  - Framework: Express.js
 
 - **Database:**
-  - SQLite or Room Database (built-in Android libraries)
+  - MongoDB
 
 - **API Development:**
   - RESTful API design and development
@@ -38,15 +38,15 @@ DormCare is an innovative mobile app designed to streamline service delivery for
   - JWT (JSON Web Tokens)
   - OAuth
 
-- **Hosting:**
-  - Firebase Cloud Platform
-  - AWS Mobile Hub
+- **AI Integration:**
+  - Libraries or frameworks for integrating AI functionality (based on your specific requirements)
 
 - **Version Control:**
   - Git, GitHub, GitLab, or Bitbucket
 
 - **Deployment:**
-  - Google Play Store or other Android app distribution platforms
+  - App Store (for iOS)
+  - Google Play Store (for Android)
 
 ## Getting Started
 
