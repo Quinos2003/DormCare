@@ -1,50 +1,73 @@
 # DormCare
 
-DormCare is an innovative mobile application designed to enhance the experience of hostel students in universities by providing essential services right to their dorm rooms. It simplifies daily routines and eliminates tedious tasks, making life in hostels more convenient and enjoyable.
+DormCare is an innovative mobile app designed to streamline service delivery for hostel students. It provides on-demand access to a range of services including room cleaning, carpentry, electrician, pest control, AC servicing, and laundry. With DormCare, students can conveniently request assistance right at their doorstep.
 
-## Features
+## Key Features
 
-DormCare offers the following services tailored to the needs of students in a university dorm:
+- **Room Cleaning:** Easily schedule and request professional cleaning services for your dorm room.
+- **Carpentry:** Get skilled carpenters to assist with furniture repairs or customization.
+- **Electrician:** Quick and reliable electrical repair and installation services.
+- **Pest Control:** Ensure a pest-free environment with effective pest control measures.
+- **AC Servicing:** Keep your AC units in optimal condition with regular servicing and maintenance.
+- **Laundry:** Convenient laundry services to take care of your laundry needs.
 
-- **Room Cleaning**: Get professional room cleaning services to maintain a clean and tidy living space.
-- **Carpentering**: Access skilled carpenters to assist with furniture repairs or assembly.
-- **Electrician**: Hire experienced electricians for electrical repairs, installations, or troubleshooting.
-- **Plumber**: Find reliable plumbers to fix plumbing issues like leaks, clogged drains, or faulty fixtures.
-- **AC Servicing**: Ensure optimal performance of air conditioning units with regular servicing and maintenance.
+## Why DormCare?
 
-## Additional Features
+- **Convenience:** DormCare brings services to your door, eliminating the need for time-consuming searches and scheduling conflicts.
+- **Trusted Service Providers:** Connect with reliable and vetted professionals for top-quality service.
+- **Affordable Pricing:** DormCare maintains an affordable pricing model to fit students' budgets.
+- **User-Friendly Experience:** The app offers a seamless booking experience, making it easy to request and manage services.
 
-In addition to the specific services mentioned above, DormCare offers the following features:
+## Tech Stack
 
-- **Convenient Booking**: Users can easily locate and book their desired services through the app, ensuring a seamless and hassle-free experience.
-- **Feedback and Ratings**: After service completion, users can provide feedback and ratings, helping other students make informed decisions when choosing service providers.
-- **Secure Payments**: DormCare offers a secure payment option, allowing students to easily and safely complete transactions within the app. Students can pay for the services availed as well as provide tips to the service providers if desired.
-- **Affordable Pricing**: We strive to keep the prices as low as possible, ensuring that students can access quality services without breaking the bank.
+- **Frontend Development:**
+  - Programming Language: Kotlin
+  - Framework: Android Jetpack (including Jetpack Compose for UI)
+
+- **Backend Development:**
+  - Programming Language: Kotlin
+  - Framework: Kotlin Ktor or Spring Boot (with Kotlin support)
+
+- **Database:**
+  - SQLite or Room Database (built-in Android libraries)
+
+- **API Development:**
+  - RESTful API design and development
+
+- **Authentication and Authorization:**
+  - JWT (JSON Web Tokens)
+  - OAuth
+
+- **Hosting:**
+  - Firebase Cloud Platform
+  - AWS Mobile Hub
+
+- **Version Control:**
+  - Git, GitHub, GitLab, or Bitbucket
+
+- **Deployment:**
+  - Google Play Store or other Android app distribution platforms
 
 ## Getting Started
 
-To get started with DormCare, follow these simple steps:
+To get started with DormCare, follow these steps:
 
-1. Download and install the DormCare app from the Google Play Store or Apple App Store.
-2. Sign up for an account using your university student credentials.
-3. Explore the available services and select the ones you need.
-4. Book the desired services and schedule a convenient time.
-5. Upon service completion, provide feedback and ratings to help improve the overall user experience.
-6. Pay securely within the app using the available payment options.
+1. Download and install the DormCare app from the App Store or Google Play.
+2. Sign up for an account using your university email.
+3. Browse the available services and select the one you need.
+4. Schedule the service at your preferred date and time.
+5. Sit back and relax as the trusted service provider takes care of your needs.
 
 ## Contributing
 
-We welcome contributions to improve DormCare and make it even more beneficial for hostel students. If you would like to contribute, please follow these guidelines:
+We welcome contributions to enhance the DormCare app. To contribute, follow these steps:
 
-1. Fork the repository and create a new branch.
-2. Make your changes and ensure that the code is clean and well-documented.
-3. Test your changes thoroughly.
-4. Submit a pull request, clearly describing the changes you have made.
-
-## Feedback and Support
-
-We value your feedback and strive to continuously improve DormCare. If you have any suggestions, issues, or need assistance, please reach out to our support team at support@dormcare.com.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and ensure they are properly tested.
+4. Commit your changes and push them to your forked repository.
+5. Open a pull request, and our team will review it.
 
 ## License
 
-DormCare is released under the [MIT License](https://opensource.org/licenses/MIT). Please review the license file for more information.
+DormCare is released under the [MIT License](https://opensource.org/licenses/MIT).
