@@ -58,10 +58,6 @@ To get started with DormCare, follow these steps:
 4. Schedule the service at your preferred date and time.
 5. Sit back and relax as the trusted service provider takes care of your needs.
 
-## Feedback and Support
-
-We value your feedback and strive to continuously improve DormCare. If you have any suggestions, issues, or need assistance, please reach out to our support team at support@dormcare.com.
-
 ## Contributing
 
 We welcome contributions to enhance the DormCare app. To contribute, follow these steps:
@@ -71,6 +67,10 @@ We welcome contributions to enhance the DormCare app. To contribute, follow thes
 3. Make your changes and ensure they are properly tested.
 4. Commit your changes and push them to your forked repository.
 5. Open a pull request, and our team will review it.
+
+## Feedback and Support
+
+We value your feedback and strive to continuously improve DormCare. If you have any suggestions, issues, or need assistance, please reach out to our support team at support@dormcare.com.
 
 ## License
 
