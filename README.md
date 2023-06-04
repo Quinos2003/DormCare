@@ -22,7 +22,7 @@ DormCare is an innovative mobile app designed to streamline service delivery for
 
 - **Frontend Development:**
   - Programming Language: React Native
-  - Framework: React Native CLI or Expo
+  - Framework: React Native CLI
 
 - **Backend Development:**
   - Programming Language: Node.js
